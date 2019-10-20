@@ -65,7 +65,6 @@
 			<artifactId>jstl</artifactId>
 			<version>${jstl.version}</version>
 		</dependency>
-
 	</dependencies>
 
 	<build>
