@@ -67,7 +67,6 @@
 	</dependencies>
 	<build>
 		<finalName>CounterWebApp</finalName>
-
 		<plugins>
 		    <!-- Eclipse project -->
 			<plugin>
