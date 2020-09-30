@@ -40,7 +40,6 @@
 			<artifactId>jcl-over-slf4j</artifactId>
 			<version>${jcl-over-slf4j.version}</version>
 		</dependency>
-
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
