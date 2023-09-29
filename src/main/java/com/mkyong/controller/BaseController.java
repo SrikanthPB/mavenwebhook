@@ -33,8 +33,7 @@ public class BaseController {
 		model.addAttribute("counter", ++counter);
 		logger.debug("[welcomeName] counter : {}", counter);
 		return VIEW_INDEX;
-		logger.debug("[welcome] counter : {}", counter);
-
+		
 	}
 
 }
